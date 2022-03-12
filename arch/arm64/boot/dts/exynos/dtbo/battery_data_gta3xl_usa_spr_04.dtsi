@@ -25,6 +25,10 @@
 			battery {
 				battery,standard_curr = <1551>;
 				battery,expired_time = <21480>; /* 258 + 100 minutes */
+
+				battery,ttf_pd_charge_current = <1770>;
+				battery,ttf_rp3_charge_current = <1770>;
+				battery,ttf_capacity = <6280>;
 			};
 		}; /* end of __overlay__ */
 	}; /* end of fragment */

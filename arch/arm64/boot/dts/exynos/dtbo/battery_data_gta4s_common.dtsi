@@ -412,9 +412,9 @@
 				battery,swelling_high_temp_recov = <390>;
 				battery,swelling_wc_high_temp_recov = <390>;
 				battery,swelling_low_temp_block_1st = <150>;
-				battery,swelling_low_temp_recov_1st = <200>;
+				battery,swelling_low_temp_recov_1st = <170>;
 				battery,swelling_low_temp_block_2nd = <50>;
-				battery,swelling_low_temp_recov_2nd = <100>;
+				battery,swelling_low_temp_recov_2nd = <70>;
 
 				battery,swelling_low_temp_current = <950>;	/* 0.3C */
 				battery,swelling_low_temp_current_2nd = <450>;
